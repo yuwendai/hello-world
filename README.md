@@ -2,3 +2,5 @@ hello-world
 ===========
 
 This is my initial version of hello world application
+
+date: 9 Sep, 2014
